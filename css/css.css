@@ -1,0 +1,36 @@
+* {
+    margin : 0px;
+    padding : 0px;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: darkslategray;
+    color: white;
+}
+
+.header span{
+    background-color: aliceblue;
+    color: black;
+    margin: 0 20px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0px;
+    background-color: darkslategrey;
+    color: white;
+    width: 100%;
+}
+
+.titlebox {
+    border: 2px solid black;
+    text-align: center;
+    display: block;
+}
+
+.task {
+    width: 100px;
+    height: 100px;
+    border: solid 1 px black;
+}
